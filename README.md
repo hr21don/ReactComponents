@@ -80,7 +80,7 @@ export default List;
 
 ## Output 
 
-Example output as follows....
+Example output as follows.... || Get in touch if you have trouble launching the app!
 
 * Grab Food
 * Cook Food
