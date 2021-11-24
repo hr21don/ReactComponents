@@ -82,8 +82,6 @@ export default List;
 
 Example output as follows....
 
-## Good Afternoon
-
 * Grab Food
 * Cook Food
 * Eat Food
