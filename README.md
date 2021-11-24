@@ -82,6 +82,11 @@ export default List;
 
 Example output as follows....
 
-<img width="182" alt="capture" src="https://user-images.githubusercontent.com/91548582/142880160-b2b32dc1-d15d-49f5-bd57-cef29009307b.PNG">
+## Good Afternoon
+
+* Grab Food
+* Cook Food
+* Eat Food
+
 
 
