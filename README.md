@@ -2,7 +2,7 @@
 Created with CodeSandbox
 
 
-## Input || Create An Index.js , App.jsx , Heading.jsx, List.jsx.
+## Create An Index.js , App.jsx , Heading.jsx, List.jsx.
 ```
 import React from "react";
 import ReactDOM from "react-dom";
