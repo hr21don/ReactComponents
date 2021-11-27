@@ -80,7 +80,7 @@ export default List;
 
 ## Output 
 
-Example output as follows.... || Get in touch if you have trouble launching the app!
+Example output as follows. || Get in touch if you have trouble launching the app!
 
 ```
 Good Afternoon
